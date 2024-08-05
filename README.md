@@ -1,9 +1,10 @@
 # HealthCare-Data---Patient-wait-List
-Requirement Gathering 
-    1. identify stakeholders
-    2. understand business objectives
-    3. high level data study
-    4. define scope
+
+    Requirement Gathering 
+       1. identify stakeholders
+       2. understand business objectives
+       3. high level data study
+       4. define scope
     
       Overall objectives
            1. track current status of patient waiting list
